@@ -32,6 +32,7 @@ In 2009, Bitcoin was invented by an anonymous person or group and released as op
 Dr. Debasis Bhattacharya  
 Mario Canul  
 Saxon Knight  
+https://github.com/bitcoinbook/bitcoinbook  
 
 [BitcoinBook]: https://github.com/bitcoinbook/bitcoinbook
 [BitcoinBookChapter01]: https://github.com/bitcoinbook/bitcoinbook/blob/develop/ch01.asciidoc
