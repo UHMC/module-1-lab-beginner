@@ -7,7 +7,7 @@ In 2009, Bitcoin was invented by an anonymous person or group and released as op
 | Attribute | Explanation |
 | - | - |
 | Summary | This lab will take the reader on a tour of sites to give a general introduction to Bitcoin. |
-| Topics  | Bitcoin, transactions, blockchain |
+| Topics | Bitcoin, transactions, blockchain |
 | Audience | CS1 and above. |
 | Difficulty | Beginner. |
 | Strengths | Familiarizes the reader with Bitcoin as a currency. |
