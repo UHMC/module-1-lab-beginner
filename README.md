@@ -15,7 +15,7 @@ In 2009, Bitcoin was invented by an anonymous person or group and released as op
 | Dependencies | A computer with internet access and a suitable browser. |
 | Variants | This lab is focused on Bitcoin, but a similar tour could be constructed for other systems such as Ethereum. |
 
-## Assignment Instructions
+## Assignment Instructions (15 Minutes)
 1. Our first stop is the book this lab and many others are based on, which the reader may find useful in a quest for a deeper understanding of Bitcoin, [_Mastering Bitcoin 2nd Edition_][BitcoinBook]. Although a print version exists, the authors have made the entire text conveniently open-source and available on GitHub. [Here's a link to the first chapter.][BitcoinBookChapter01]
 2. What if you just want to own some Bitcoin? Well, we'll save the process of setting up a wallet and funding it (most likely with test funds rather than actual Bitcoin \[have you seen the price?\]) until a later lab, but in the meantime, let's look at some of the places and ways you might obtain some Bitcoin later on:
     * For person-to-person transactions, there's [meetup.com][BitcoinMeetup].
